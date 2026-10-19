@@ -1,46 +1,25 @@
 #include "Mensaje.h"
 #include <iostream>
 
-Mensaje::Mensaje(Usuario* e, Usuario* r, string& t, Fecha& f) {
-    emisor = e;
-    receptor = r;
-    texto = t;
-    fechaEnvio = f;
-    leido = false;
-}
+Mensaje::Mensaje(Usuario* e, Usuario* r, Texto& t, Fecha& f)
+    : texto(t), fechaEnvio(f), leido(false), emisor(e), receptor(r) {}
+Mensaje::Mensaje(const Mensaje& otro)
+    : texto(otro.texto), fechaEnvio(otro.fechaEnvio), leido(otro.leido),
+    emisor(otro.emisor), receptor(otro.receptor) {}
+Mensaje::~Mensaje() {}
 
-Mensaje::Mensaje(const Mensaje& otro) {
-    emisor = otro.emisor;
-    receptor = otro.receptor;
-    texto = otro.texto;
-    fechaEnvio = otro.fechaEnvio;
-    leido = otro.leido;
+bool Mensaje::estaLeido() const { return leido; }
+void Mensaje::marcarLeido() { leido = true; }
+void Mensaje::mostrar() const {
+    std::cout << "Fecha: " << fechaEnvio << "\n";
+    std::cout << "Mensaje: " << texto << "\n";
 }
-
-Mensaje::~Mensaje() {
-}
-
-bool Mensaje::estaLeido(){
-    return leido;
-}
-
-void Mensaje::marcarLeido(){
-    leido = true;
-}
-
-void Mensaje::mostrar(){
-        cout << "Fecha: " << fechaEnvio << "\n";
-        cout << "Mensaje: " << texto << "\n";
-}
-
-bool Mensaje::enRango(Fecha& inicio, Fecha& fin) {
+bool Mensaje::enRango(const Fecha& inicio, const Fecha& fin) const {
     return !(fechaEnvio < inicio) && !(fin < fechaEnvio);
 }
-
-bool Mensaje::operator<(const Mensaje& otro) {
-    return fechaEnvio < otro.fechaEnvio;
-}
-
-unsigned long Mensaje::calcularMemoria() {
-    return sizeof(*this) + texto.capacity();
-}
+bool Mensaje::operator<(const Mensaje& otro) const { return fechaEnvio < otro.fechaEnvio; }
+const Texto& Mensaje::getTexto() const { return texto; }
+const Fecha& Mensaje::getFechaEnvio() const { return fechaEnvio; }
+Usuario* Mensaje::getEmisor() const { return emisor; }
+Usuario* Mensaje::getReceptor() const { return receptor; }
+unsigned long Mensaje::calcularMemoria() const { return sizeof(*this) + texto.calcularMemoria(); }

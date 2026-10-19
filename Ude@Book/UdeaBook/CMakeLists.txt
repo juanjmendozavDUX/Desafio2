@@ -11,8 +11,18 @@ add_executable(UdeaBook main.cpp
     Mensaje.cpp
     Fecha.cpp
     ArregloDinamicoT.h
+    Texto.h
+    Texto.cpp
     MedidorRecursos.h
-    MedidorRecursos.cpp)
+    MedidorRecursos.cpp
+    UdeABook.h
+    UdeABook.cpp
+    Usuario.h
+    Usuario.cpp
+    Fotos.h
+    Fotos.cpp
+    Album.h
+    Album.cpp)
 
 include(GNUInstallDirs)
 install(TARGETS UdeaBook

@@ -1,0 +1,502 @@
+0|1|hola como estas|17|10|2026|1
+0|1|hola como estas como te ha ido?|17|10|2026|1
+1|0|Ya llegue a casa|6|2|2026|0
+2|0|Buen dia|20|3|2026|0
+3|0|Feliz cumpleanos|16|1|2026|0
+5|0|Hola como estas|26|1|2026|0
+5|0|Nos vemos manana|31|1|2026|0
+5|0|Te debo una|31|3|2026|0
+6|0|Saludos a tu familia|18|1|2026|0
+7|0|Que tal el viaje|3|3|2026|0
+7|869|Que tal el viaje|30|8|2026|0
+8|129|Recuerda la reunion|3|2|2026|0
+8|390|Ya termine el proyecto|2|7|2026|0
+9|0|Te envio las fotos luego|3|3|2026|0
+9|277|Te debo una|20|3|2026|0
+10|704|Hablamos mas tarde|19|4|2026|0
+10|454|Me encanto tu album|14|5|2026|0
+11|0|Que tal el viaje|26|1|2026|0
+12|0|Nos vemos manana|24|2|2026|0
+12|946|Hablamos mas tarde|1|3|2026|0
+13|0|Me encanto tu album|2|3|2026|0
+13|0|Saludos a tu familia|20|3|2026|0
+13|0|Recuerda la reunion|23|3|2026|0
+14|299|Vamos a cine el sabado|10|3|2026|0
+14|0|Te debo una|13|3|2026|0
+14|0|Ya llegue a casa|31|3|2026|0
+15|631|Ya llegue a casa|16|3|2026|0
+16|0|Me encanto tu album|1|2|2026|0
+16|0|Vamos a cine el sabado|17|2|2026|0
+17|0|Recuerda la reunion|11|3|2026|0
+18|0|Te debo una|22|2|2026|0
+27|919|Que buena foto|10|2|2026|0
+29|374|Hola como estas|24|4|2026|0
+34|97|Te debo una|15|1|2026|0
+35|719|Hablamos mas tarde|8|5|2026|0
+41|877|Te debo una|10|1|2026|0
+41|411|Hola como estas|25|8|2026|0
+44|156|Saludos a tu familia|28|6|2026|0
+46|205|Te debo una|6|4|2026|0
+47|614|Recuerda la reunion|8|5|2026|0
+47|376|Que tal el viaje|3|8|2026|0
+56|175|Te envio las fotos luego|14|6|2026|0
+57|934|Que buena foto|22|9|2026|0
+59|533|Buen dia|29|5|2026|0
+62|712|Ya llegue a casa|6|7|2026|0
+62|866|Nos vemos manana|10|9|2026|0
+68|983|Vamos a cine el sabado|28|1|2026|0
+70|97|Me encanto tu album|23|4|2026|0
+70|580|Vamos a cine el sabado|4|7|2026|0
+71|272|Que planes tienes hoy|15|4|2026|0
+75|730|Recuerda la reunion|5|7|2026|0
+76|520|Ya llegue a casa|13|6|2026|0
+76|290|Ya termine el proyecto|6|7|2026|0
+78|939|Viste el partido de ayer|18|7|2026|0
+81|188|Ya termine el proyecto|29|5|2026|0
+85|809|Feliz cumpleanos|27|3|2026|0
+87|758|Que planes tienes hoy|10|4|2026|0
+89|659|Feliz cumpleanos|12|3|2026|0
+94|104|Vamos a cine el sabado|17|6|2026|0
+97|141|Viste el partido de ayer|12|7|2026|0
+99|530|Que tal el viaje|5|10|2026|0
+102|78|Que tal el viaje|24|8|2026|0
+106|2|Te debo una|1|2|2026|0
+107|72|Que tal el viaje|27|2|2026|0
+110|0|Hola como estas|16|3|2026|0
+111|344|Que buena foto|24|5|2026|0
+112|236|Te envio las fotos luego|4|3|2026|0
+118|120|Feliz cumpleanos|6|6|2026|0
+121|679|Nos vemos manana|15|8|2026|0
+122|738|Recuerda la reunion|28|6|2026|0
+123|475|Feliz cumpleanos|30|6|2026|0
+125|212|Ya llegue a casa|25|9|2026|0
+127|984|Que buena foto|27|4|2026|0
+129|28|Ya termine el proyecto|8|1|2026|0
+129|271|Gracias por todo|20|7|2026|0
+131|809|Que buena foto|20|5|2026|0
+133|621|Ya llegue a casa|11|5|2026|0
+135|279|Llamame cuando puedas|26|7|2026|0
+140|773|Feliz cumpleanos|22|7|2026|0
+140|640|Saludos a tu familia|5|10|2026|0
+141|397|Tienes los apuntes de clase|24|3|2026|0
+141|893|Buen dia|8|6|2026|0
+144|720|Hablamos mas tarde|13|5|2026|0
+145|445|Recuerda la reunion|7|7|2026|0
+153|146|Que planes tienes hoy|18|4|2026|0
+153|835|Ya llegue a casa|14|6|2026|0
+153|207|Vamos a cine el sabado|27|6|2026|0
+155|255|Que planes tienes hoy|1|7|2026|0
+156|909|Saludos a tu familia|24|2|2026|0
+156|283|Gracias por todo|19|5|2026|0
+158|348|Te envio las fotos luego|19|3|2026|0
+161|268|Ya termine el proyecto|14|4|2026|0
+163|0|Que tal el viaje|5|1|2026|0
+163|831|Ya termine el proyecto|4|10|2026|0
+164|309|Nos vemos manana|18|1|2026|0
+172|877|Te envio las fotos luego|13|2|2026|0
+173|745|Te debo una|3|8|2026|0
+174|498|Que buena foto|14|5|2026|0
+176|868|Te envio las fotos luego|20|2|2026|0
+177|459|Llamame cuando puedas|25|7|2026|0
+179|346|Vamos a cine el sabado|14|9|2026|0
+183|29|Te envio las fotos luego|8|5|2026|0
+186|105|Tienes los apuntes de clase|4|3|2026|0
+187|893|Nos vemos manana|7|4|2026|0
+187|840|Hola como estas|28|5|2026|0
+189|180|Vamos a cine el sabado|7|6|2026|0
+192|893|Gracias por todo|24|3|2026|0
+194|39|Que tal el viaje|24|9|2026|0
+197|137|Ya termine el proyecto|3|8|2026|0
+201|387|Que planes tienes hoy|23|1|2026|0
+201|350|Gracias por todo|4|3|2026|0
+201|680|Tienes los apuntes de clase|25|7|2026|0
+203|117|Ya termine el proyecto|29|3|2026|0
+205|770|Que tal el viaje|17|5|2026|0
+209|459|Que buena foto|1|8|2026|0
+209|926|Que buena foto|2|8|2026|0
+212|48|Saludos a tu familia|28|2|2026|0
+219|229|Llamame cuando puedas|21|4|2026|0
+223|578|Ya termine el proyecto|13|6|2026|0
+224|0|Nos vemos manana|20|1|2026|0
+224|538|Gracias por todo|17|5|2026|0
+225|646|Hola como estas|6|6|2026|0
+229|631|Nos vemos manana|17|4|2026|0
+230|187|Que buena foto|2|3|2026|0
+230|150|Ya llegue a casa|23|4|2026|0
+232|818|Ya llegue a casa|5|4|2026|0
+232|835|Ya llegue a casa|8|9|2026|0
+235|601|Que planes tienes hoy|19|1|2026|0
+236|736|Que buena foto|19|2|2026|0
+236|446|Te envio las fotos luego|29|7|2026|0
+237|436|Saludos a tu familia|22|1|2026|0
+238|108|Recuerda la reunion|6|8|2026|0
+239|594|Saludos a tu familia|12|5|2026|0
+244|382|Me encanto tu album|6|4|2026|0
+246|858|Ya llegue a casa|2|7|2026|0
+247|652|Llamame cuando puedas|11|2|2026|0
+250|333|Ya termine el proyecto|31|1|2026|0
+252|273|Nos vemos manana|22|7|2026|0
+254|785|Recuerda la reunion|14|8|2026|0
+255|517|Que buena foto|9|3|2026|0
+257|259|Que tal el viaje|9|4|2026|0
+258|890|Que planes tienes hoy|15|2|2026|0
+260|608|Tienes los apuntes de clase|13|7|2026|0
+264|958|Ya llegue a casa|12|1|2026|0
+269|115|Viste el partido de ayer|8|8|2026|0
+271|719|Que planes tienes hoy|8|2|2026|0
+271|220|Llamame cuando puedas|23|6|2026|0
+271|762|Buen dia|12|10|2026|0
+272|816|Ya llegue a casa|1|2|2026|0
+272|781|Recuerda la reunion|15|8|2026|0
+275|866|Llamame cuando puedas|5|10|2026|0
+277|704|Buen dia|31|7|2026|0
+278|89|Nos vemos manana|19|9|2026|0
+281|116|Que planes tienes hoy|11|9|2026|0
+286|774|Me encanto tu album|15|1|2026|0
+286|567|Saludos a tu familia|14|8|2026|0
+293|488|Que planes tienes hoy|15|4|2026|0
+294|274|Que tal el viaje|29|1|2026|0
+295|270|Te debo una|4|8|2026|0
+302|321|Ya termine el proyecto|28|6|2026|0
+303|669|Que tal el viaje|30|5|2026|0
+307|824|Te debo una|15|6|2026|0
+308|380|Feliz cumpleanos|23|3|2026|0
+309|571|Hablamos mas tarde|2|1|2026|0
+310|615|Recuerda la reunion|11|3|2026|0
+310|800|Que tal el viaje|20|9|2026|0
+310|889|Hablamos mas tarde|17|10|2026|0
+312|10|Que planes tienes hoy|11|2|2026|0
+312|773|Nos vemos manana|6|6|2026|0
+312|419|Hablamos mas tarde|18|10|2026|0
+314|661|Viste el partido de ayer|21|8|2026|0
+321|352|Gracias por todo|27|6|2026|0
+321|825|Recuerda la reunion|23|7|2026|0
+323|848|Te envio las fotos luego|13|9|2026|0
+325|66|Te debo una|15|4|2026|0
+330|131|Vamos a cine el sabado|30|7|2026|0
+334|728|Feliz cumpleanos|16|5|2026|0
+343|565|Viste el partido de ayer|30|8|2026|0
+345|696|Me encanto tu album|13|6|2026|0
+347|656|Que planes tienes hoy|10|3|2026|0
+350|767|Tienes los apuntes de clase|3|10|2026|0
+363|975|Hablamos mas tarde|21|5|2026|0
+364|254|Gracias por todo|15|8|2026|0
+368|649|Que planes tienes hoy|12|6|2026|0
+370|104|Ya llegue a casa|19|9|2026|0
+371|723|Ya llegue a casa|19|3|2026|0
+372|8|Gracias por todo|2|9|2026|0
+373|867|Feliz cumpleanos|11|9|2026|0
+374|199|Que tal el viaje|9|6|2026|0
+375|149|Nos vemos manana|17|2|2026|0
+380|353|Que buena foto|4|8|2026|0
+387|900|Que planes tienes hoy|2|1|2026|0
+387|326|Hola como estas|28|4|2026|0
+389|955|Me encanto tu album|4|2|2026|0
+390|776|Buen dia|11|5|2026|0
+392|471|Saludos a tu familia|5|6|2026|0
+394|11|Gracias por todo|7|3|2026|0
+395|868|Que tal el viaje|4|6|2026|0
+400|97|Tienes los apuntes de clase|24|5|2026|0
+400|340|Saludos a tu familia|31|8|2026|0
+402|380|Llamame cuando puedas|25|1|2026|0
+411|999|Llamame cuando puedas|1|4|2026|0
+412|254|Recuerda la reunion|8|5|2026|0
+414|889|Te envio las fotos luego|21|9|2026|0
+415|846|Ya termine el proyecto|20|2|2026|0
+416|623|Ya llegue a casa|17|1|2026|0
+416|843|Que tal el viaje|9|8|2026|0
+417|112|Llamame cuando puedas|23|8|2026|0
+421|193|Buen dia|21|1|2026|0
+423|564|Tienes los apuntes de clase|27|9|2026|0
+425|196|Ya llegue a casa|2|6|2026|0
+425|660|Ya llegue a casa|2|10|2026|0
+426|321|Recuerda la reunion|14|6|2026|0
+427|965|Tienes los apuntes de clase|18|1|2026|0
+427|247|Te envio las fotos luego|3|3|2026|0
+431|639|Me encanto tu album|13|9|2026|0
+432|491|Vamos a cine el sabado|28|6|2026|0
+434|678|Hablamos mas tarde|22|7|2026|0
+437|723|Te envio las fotos luego|26|7|2026|0
+440|682|Hola como estas|22|3|2026|0
+441|297|Te envio las fotos luego|13|5|2026|0
+441|968|Hablamos mas tarde|7|6|2026|0
+443|2|Nos vemos manana|24|4|2026|0
+444|868|Viste el partido de ayer|31|5|2026|0
+455|922|Que tal el viaje|19|5|2026|0
+455|707|Hola como estas|18|10|2026|0
+456|509|Que planes tienes hoy|6|9|2026|0
+457|764|Llamame cuando puedas|24|4|2026|0
+458|297|Tienes los apuntes de clase|6|9|2026|0
+459|587|Que planes tienes hoy|16|8|2026|0
+460|549|Nos vemos manana|18|4|2026|0
+460|277|Nos vemos manana|24|6|2026|0
+462|729|Me encanto tu album|20|5|2026|0
+464|214|Que buena foto|7|6|2026|0
+465|661|Ya termine el proyecto|2|5|2026|0
+468|559|Que tal el viaje|15|3|2026|0
+471|696|Ya llegue a casa|7|10|2026|0
+477|6|Ya llegue a casa|20|7|2026|0
+480|613|Me encanto tu album|11|5|2026|0
+484|716|Me encanto tu album|26|3|2026|0
+484|44|Hablamos mas tarde|6|6|2026|0
+486|980|Vamos a cine el sabado|20|6|2026|0
+487|23|Recuerda la reunion|5|10|2026|0
+488|91|Que buena foto|25|4|2026|0
+492|902|Ya termine el proyecto|11|2|2026|0
+492|280|Nos vemos manana|22|4|2026|0
+493|651|Gracias por todo|16|3|2026|0
+493|614|Nos vemos manana|12|4|2026|0
+494|80|Gracias por todo|7|6|2026|0
+494|785|Hablamos mas tarde|28|8|2026|0
+496|208|Que planes tienes hoy|5|7|2026|0
+503|655|Me encanto tu album|4|1|2026|0
+506|717|Te envio las fotos luego|24|1|2026|0
+509|749|Nos vemos manana|25|4|2026|0
+510|515|Que tal el viaje|27|5|2026|0
+511|238|Ya llegue a casa|20|7|2026|0
+512|324|Ya termine el proyecto|15|10|2026|0
+513|190|Hablamos mas tarde|17|1|2026|0
+514|813|Recuerda la reunion|13|2|2026|0
+514|825|Feliz cumpleanos|9|7|2026|0
+516|340|Me encanto tu album|13|6|2026|0
+518|778|Que tal el viaje|30|6|2026|0
+519|255|Buen dia|17|2|2026|0
+520|393|Hola como estas|13|7|2026|0
+520|145|Que planes tienes hoy|16|10|2026|0
+522|726|Me encanto tu album|27|1|2026|0
+522|214|Tienes los apuntes de clase|23|2|2026|0
+524|993|Tienes los apuntes de clase|26|9|2026|0
+526|803|Saludos a tu familia|18|2|2026|0
+531|991|Que tal el viaje|13|2|2026|0
+536|275|Que planes tienes hoy|8|6|2026|0
+536|471|Saludos a tu familia|8|7|2026|0
+536|803|Viste el partido de ayer|30|7|2026|0
+555|420|Hola como estas|25|4|2026|0
+556|317|Te envio las fotos luego|4|2|2026|0
+558|120|Ya llegue a casa|17|8|2026|0
+565|261|Gracias por todo|29|4|2026|0
+565|342|Recuerda la reunion|17|6|2026|0
+565|724|Buen dia|14|8|2026|0
+567|101|Tienes los apuntes de clase|12|6|2026|0
+569|266|Que planes tienes hoy|15|2|2026|0
+569|906|Que planes tienes hoy|12|7|2026|0
+569|288|Saludos a tu familia|18|10|2026|0
+570|271|Ya termine el proyecto|3|1|2026|0
+570|0|Recuerda la reunion|15|2|2026|0
+577|221|Recuerda la reunion|5|2|2026|0
+580|354|Tienes los apuntes de clase|1|3|2026|0
+581|176|Hablamos mas tarde|3|8|2026|0
+582|204|Saludos a tu familia|7|3|2026|0
+589|736|Llamame cuando puedas|5|2|2026|0
+591|598|Te debo una|11|2|2026|0
+592|321|Hola como estas|19|9|2026|0
+593|103|Nos vemos manana|1|5|2026|0
+593|934|Te envio las fotos luego|28|6|2026|0
+594|474|Hola como estas|13|10|2026|0
+596|651|Me encanto tu album|8|2|2026|0
+596|0|Tienes los apuntes de clase|12|2|2026|0
+597|414|Viste el partido de ayer|20|3|2026|0
+598|82|Te debo una|12|1|2026|0
+599|903|Que buena foto|16|3|2026|0
+599|939|Viste el partido de ayer|22|9|2026|0
+600|788|Feliz cumpleanos|30|3|2026|0
+601|953|Saludos a tu familia|3|7|2026|0
+601|696|Me encanto tu album|30|9|2026|0
+603|142|Buen dia|4|2|2026|0
+604|439|Ya llegue a casa|9|8|2026|0
+606|856|Saludos a tu familia|4|2|2026|0
+607|150|Me encanto tu album|29|4|2026|0
+607|553|Gracias por todo|1|7|2026|0
+609|223|Que buena foto|17|8|2026|0
+614|749|Vamos a cine el sabado|12|7|2026|0
+614|483|Nos vemos manana|10|10|2026|0
+615|995|Hablamos mas tarde|4|4|2026|0
+618|810|Que buena foto|27|5|2026|0
+620|14|Viste el partido de ayer|25|4|2026|0
+621|368|Viste el partido de ayer|12|3|2026|0
+623|738|Gracias por todo|11|4|2026|0
+630|209|Ya llegue a casa|28|9|2026|0
+631|180|Que planes tienes hoy|8|6|2026|0
+634|86|Te envio las fotos luego|30|4|2026|0
+635|874|Que tal el viaje|12|5|2026|0
+638|878|Vamos a cine el sabado|18|8|2026|0
+640|351|Vamos a cine el sabado|4|1|2026|0
+640|505|Hola como estas|26|3|2026|0
+640|686|Ya termine el proyecto|24|6|2026|0
+640|379|Buen dia|20|7|2026|0
+642|203|Recuerda la reunion|24|5|2026|0
+644|0|Hablamos mas tarde|9|3|2026|0
+645|32|Feliz cumpleanos|21|5|2026|0
+650|0|Que buena foto|5|2|2026|0
+650|619|Me encanto tu album|1|10|2026|0
+653|709|Recuerda la reunion|7|7|2026|0
+656|176|Hola como estas|23|2|2026|0
+656|270|Te debo una|23|4|2026|0
+657|833|Ya llegue a casa|31|5|2026|0
+658|0|Hablamos mas tarde|20|1|2026|0
+659|273|Feliz cumpleanos|22|3|2026|0
+659|338|Hola como estas|9|6|2026|0
+660|701|Te envio las fotos luego|9|2|2026|0
+662|198|Recuerda la reunion|19|5|2026|0
+664|665|Hola como estas|19|6|2026|0
+665|218|Llamame cuando puedas|18|10|2026|0
+667|149|Vamos a cine el sabado|21|7|2026|0
+674|601|Que planes tienes hoy|1|1|2026|0
+675|840|Que buena foto|10|1|2026|0
+675|772|Te debo una|4|4|2026|0
+675|194|Gracias por todo|29|7|2026|0
+675|38|Viste el partido de ayer|18|8|2026|0
+678|510|Buen dia|12|8|2026|0
+682|678|Te envio las fotos luego|4|3|2026|0
+683|562|Que buena foto|7|7|2026|0
+683|824|Tienes los apuntes de clase|10|8|2026|0
+685|318|Feliz cumpleanos|2|6|2026|0
+686|465|Tienes los apuntes de clase|18|9|2026|0
+687|284|Vamos a cine el sabado|19|9|2026|0
+689|184|Que planes tienes hoy|8|5|2026|0
+690|882|Recuerda la reunion|7|5|2026|0
+693|74|Ya llegue a casa|6|6|2026|0
+698|203|Feliz cumpleanos|6|2|2026|0
+698|357|Que tal el viaje|17|3|2026|0
+699|408|Recuerda la reunion|22|2|2026|0
+699|90|Llamame cuando puedas|19|3|2026|0
+701|966|Tienes los apuntes de clase|18|10|2026|0
+704|592|Buen dia|9|2|2026|0
+707|76|Nos vemos manana|29|1|2026|0
+707|734|Que tal el viaje|7|2|2026|0
+708|347|Viste el partido de ayer|22|2|2026|0
+711|84|Que tal el viaje|28|6|2026|0
+712|844|Que planes tienes hoy|14|8|2026|0
+713|120|Hablamos mas tarde|6|10|2026|0
+723|718|Te envio las fotos luego|16|2|2026|0
+723|971|Que planes tienes hoy|10|4|2026|0
+723|409|Me encanto tu album|4|9|2026|0
+726|461|Viste el partido de ayer|1|7|2026|0
+727|270|Gracias por todo|24|7|2026|0
+729|874|Te envio las fotos luego|9|1|2026|0
+731|711|Te debo una|9|7|2026|0
+737|366|Te envio las fotos luego|24|7|2026|0
+737|976|Hola como estas|31|8|2026|0
+737|315|Ya llegue a casa|7|9|2026|0
+744|637|Te envio las fotos luego|5|3|2026|0
+744|708|Te envio las fotos luego|15|5|2026|0
+746|778|Llamame cuando puedas|24|6|2026|0
+751|585|Te debo una|30|5|2026|0
+752|149|Vamos a cine el sabado|7|8|2026|0
+758|791|Te debo una|6|5|2026|0
+760|207|Viste el partido de ayer|21|2|2026|0
+762|851|Ya termine el proyecto|25|7|2026|0
+765|0|Llamame cuando puedas|9|3|2026|0
+766|558|Vamos a cine el sabado|14|5|2026|0
+767|655|Vamos a cine el sabado|8|9|2026|0
+773|927|Saludos a tu familia|12|3|2026|0
+773|339|Nos vemos manana|9|5|2026|0
+773|790|Saludos a tu familia|25|8|2026|0
+774|621|Tienes los apuntes de clase|8|10|2026|0
+775|770|Que buena foto|20|5|2026|0
+776|958|Que planes tienes hoy|1|6|2026|0
+778|0|Saludos a tu familia|9|9|2026|0
+782|550|Que buena foto|14|5|2026|0
+782|225|Hola como estas|13|10|2026|0
+784|586|Te debo una|15|5|2026|0
+785|80|Que planes tienes hoy|22|1|2026|0
+791|115|Recuerda la reunion|22|6|2026|0
+792|180|Tienes los apuntes de clase|12|4|2026|0
+795|110|Que tal el viaje|26|8|2026|0
+796|781|Que buena foto|31|8|2026|0
+798|0|Llamame cuando puedas|25|2|2026|0
+803|391|Llamame cuando puedas|7|1|2026|0
+804|960|Ya llegue a casa|30|3|2026|0
+805|800|Vamos a cine el sabado|10|10|2026|0
+807|0|Que planes tienes hoy|2|9|2026|0
+809|518|Ya termine el proyecto|29|5|2026|0
+810|510|Vamos a cine el sabado|11|8|2026|0
+814|162|Saludos a tu familia|31|1|2026|0
+814|245|Hablamos mas tarde|18|8|2026|0
+816|147|Hola como estas|12|9|2026|0
+817|17|Llamame cuando puedas|6|4|2026|0
+821|244|Que planes tienes hoy|16|9|2026|0
+826|639|Gracias por todo|24|3|2026|0
+828|382|Llamame cuando puedas|7|6|2026|0
+829|136|Hablamos mas tarde|16|7|2026|0
+829|495|Tienes los apuntes de clase|5|9|2026|0
+832|566|Ya termine el proyecto|2|4|2026|0
+833|567|Te debo una|5|3|2026|0
+833|875|Gracias por todo|1|7|2026|0
+834|0|Tienes los apuntes de clase|24|3|2026|0
+835|586|Que planes tienes hoy|1|5|2026|0
+836|918|Que buena foto|19|5|2026|0
+839|786|Ya llegue a casa|28|3|2026|0
+842|786|Te envio las fotos luego|28|1|2026|0
+842|766|Que tal el viaje|20|4|2026|0
+846|395|Recuerda la reunion|25|3|2026|0
+846|602|Te debo una|29|9|2026|0
+847|307|Tienes los apuntes de clase|22|1|2026|0
+847|155|Te envio las fotos luego|24|7|2026|0
+848|302|Que buena foto|29|7|2026|0
+860|545|Llamame cuando puedas|2|6|2026|0
+862|750|Te envio las fotos luego|8|2|2026|0
+862|13|Que tal el viaje|13|5|2026|0
+866|316|Ya llegue a casa|29|6|2026|0
+866|472|Que tal el viaje|21|7|2026|0
+868|243|Hablamos mas tarde|29|8|2026|0
+873|459|Hablamos mas tarde|25|7|2026|0
+874|548|Ya llegue a casa|25|4|2026|0
+874|144|Ya termine el proyecto|17|9|2026|0
+876|562|Ya llegue a casa|1|2|2026|0
+877|381|Recuerda la reunion|15|9|2026|0
+880|731|Recuerda la reunion|5|10|2026|0
+882|716|Te envio las fotos luego|10|7|2026|0
+883|556|Que planes tienes hoy|3|2|2026|0
+883|607|Me encanto tu album|12|6|2026|0
+888|608|Ya termine el proyecto|29|8|2026|0
+889|318|Ya llegue a casa|22|9|2026|0
+891|277|Que buena foto|14|9|2026|0
+892|253|Que tal el viaje|5|10|2026|0
+893|593|Vamos a cine el sabado|8|9|2026|0
+894|482|Tienes los apuntes de clase|25|9|2026|0
+901|359|Feliz cumpleanos|19|7|2026|0
+905|951|Feliz cumpleanos|1|6|2026|0
+905|606|Que planes tienes hoy|7|8|2026|0
+905|40|Hablamos mas tarde|26|8|2026|0
+906|452|Buen dia|14|3|2026|0
+906|78|Llamame cuando puedas|19|7|2026|0
+911|942|Me encanto tu album|7|2|2026|0
+912|345|Viste el partido de ayer|1|3|2026|0
+913|271|Buen dia|25|1|2026|0
+915|78|Ya llegue a casa|17|10|2026|0
+916|772|Recuerda la reunion|10|8|2026|0
+919|249|Llamame cuando puedas|11|10|2026|0
+921|427|Que tal el viaje|14|9|2026|0
+923|409|Te debo una|13|2|2026|0
+924|284|Que tal el viaje|15|4|2026|0
+925|842|Tienes los apuntes de clase|8|2|2026|0
+925|381|Que tal el viaje|14|7|2026|0
+934|544|Me encanto tu album|17|8|2026|0
+939|760|Llamame cuando puedas|4|2|2026|0
+942|106|Saludos a tu familia|2|5|2026|0
+942|494|Nos vemos manana|11|6|2026|0
+944|596|Llamame cuando puedas|3|2|2026|0
+944|629|Tienes los apuntes de clase|8|6|2026|0
+946|174|Hablamos mas tarde|20|5|2026|0
+947|198|Tienes los apuntes de clase|23|9|2026|0
+948|825|Que tal el viaje|4|5|2026|0
+950|345|Buen dia|4|3|2026|0
+950|210|Saludos a tu familia|1|10|2026|0
+955|786|Hablamos mas tarde|13|7|2026|0
+956|475|Viste el partido de ayer|6|1|2026|0
+961|564|Viste el partido de ayer|5|4|2026|0
+961|562|Que planes tienes hoy|29|4|2026|0
+964|713|Me encanto tu album|27|2|2026|0
+965|360|Tienes los apuntes de clase|1|3|2026|0
+968|148|Gracias por todo|11|7|2026|0
+970|857|Que planes tienes hoy|4|6|2026|0
+975|359|Buen dia|7|4|2026|0
+979|30|Te envio las fotos luego|9|6|2026|0
+985|410|Llamame cuando puedas|30|6|2026|0
+989|650|Ya llegue a casa|13|4|2026|0
+990|829|Me encanto tu album|9|4|2026|0
+996|305|Viste el partido de ayer|12|8|2026|0
+998|62|Recuerda la reunion|28|5|2026|0
+998|539|Que planes tienes hoy|29|9|2026|0
+999|437|Ya termine el proyecto|19|6|2026|0

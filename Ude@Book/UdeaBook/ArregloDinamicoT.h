@@ -11,50 +11,61 @@ private:
     int capacidad;
 
     void ampliar() {
-        // 1.crear nueva caja
-        T* temporal = new T[capacidad * 2]();
-
-        // 2.mudar los elementos
-        for (int i = 0; i < cantidad; i++) {
-            temporal[i] = elementos[i];
-        }
-
-        // 3.destruir la caja vieja
+        int nuevaCapacidad = capacidad > 0 ? capacidad * 2 : 1;
+        T* temporal = new T[nuevaCapacidad];
+        for (int i = 0; i < cantidad; i++) temporal[i] = elementos[i];
         delete[] elementos;
-
-        // 4.renombrar la caja nueva y actualizar el limite
         elementos = temporal;
-        capacidad = capacidad * 2;
+        capacidad = nuevaCapacidad;
     }
 
 public:
-    ArregloDinamico(int cap = 10) {
-        capacidad = cap;
-        cantidad = 0;
+    ArregloDinamico(int cap = 4)
+        : elementos(nullptr), cantidad(0), capacidad(cap > 0 ? cap : 1) {
         elementos = new T[capacidad];
     }
 
-    ~ArregloDinamico() {
-        delete[] elementos;
+    ArregloDinamico(const ArregloDinamico& otro)
+        : elementos(nullptr), cantidad(otro.cantidad), capacidad(otro.capacidad) {
+        elementos = new T[capacidad];
+        for (int i = 0; i < cantidad; i++) elementos[i] = otro.elementos[i];
     }
 
-    int getCantidad() {
-        return cantidad;
-    }
+    ~ArregloDinamico() { delete[] elementos; }
 
-    void agregar(T nuevoElemento) {
-        if (cantidad == capacidad) {
-            ampliar();
-        }
+    void agregar(const T& nuevoElemento) {
+        if (cantidad == capacidad) ampliar();
         elementos[cantidad] = nuevoElemento;
         cantidad++;
     }
 
-    // metodo para obtener un elemento en una posicion especifica
-    T& obtener(int indice) {
-        // aqui se podría agregar validacion para no salir del limite
-        return elementos[indice];
+    void eliminar(int indice) {
+        if (indice < 0 || indice >= cantidad) return;
+        for (int i = indice; i < cantidad - 1; i++) elementos[i] = elementos[i + 1];
+        cantidad--;
+    }
+
+    T& obtener(int indice) { return elementos[indice]; }
+    const T& obtener(int indice) const { return elementos[indice]; }
+    int getCantidad() const { return cantidad; }
+    int getCapacidad() const { return capacidad; }
+    unsigned long calcularMemoria() const {
+        return static_cast<unsigned long>(capacidad) * sizeof(T);
+    }
+
+    T& operator[](int i) { return elementos[i]; }
+    const T& operator[](int i) const { return elementos[i]; }
+
+    ArregloDinamico& operator=(const ArregloDinamico& otro) {
+        if (this == &otro) return *this;
+        T* nuevo = new T[otro.capacidad];
+        for (int i = 0; i < otro.cantidad; i++) nuevo[i] = otro.elementos[i];
+        delete[] elementos;
+        elementos = nuevo;
+        cantidad = otro.cantidad;
+        capacidad = otro.capacidad;
+        return *this;
     }
 };
 
-#endif // ARREGLODINAMICOT_H
+#endif

@@ -1,30 +1,33 @@
 #ifndef MENSAJE_H
 #define MENSAJE_H
-#include <string>
-#include "Fecha.h"
 
-using namespace std;
+#include <iostream>
+#include "Fecha.h"
+#include "Texto.h"
 
 class Usuario;
 
 class Mensaje {
 private:
-    string texto;
+    Texto texto;
     Fecha fechaEnvio;
     bool leido;
-    Usuario *emisor;
-    Usuario *receptor;
-
+    Usuario* emisor;
+    Usuario* receptor;
 public:
-    Mensaje(Usuario*, Usuario*, string&, Fecha&);
+    Mensaje(Usuario*, Usuario*, Texto&, Fecha&);
     Mensaje(const Mensaje&);
     ~Mensaje();
-    bool estaLeido();
+    bool estaLeido() const;
     void marcarLeido();
-    void mostrar();
-    bool enRango(Fecha&, Fecha&);
-    bool operator<(const Mensaje&);
-    unsigned long calcularMemoria();
+    void mostrar() const;
+    bool enRango(const Fecha&, const Fecha&) const;
+    bool operator<(const Mensaje&) const;
+    const Texto& getTexto() const;
+    const Fecha& getFechaEnvio() const;
+    Usuario* getEmisor() const;
+    Usuario* getReceptor() const;
+    unsigned long calcularMemoria() const;
 };
 
-#endif // MENSAJE_H
+#endif
